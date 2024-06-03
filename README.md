@@ -167,3 +167,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 - freeCodeCamp - For the project inspiration and resources
+- K-dev -For Guidance and helping with overcomming errors
+ https://youtu.be/ZJMe7N2Z_b8?si=GgUT7BC8KTWbbiFC
